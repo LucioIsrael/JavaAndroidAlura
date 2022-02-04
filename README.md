@@ -1,1 +1,3 @@
-# Projeto não finalizado
+# Projeto agenda
+
+Pretendo criar uma agenda para listar itens.
